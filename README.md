@@ -1,6 +1,6 @@
 # Cluster-Analysis-of-Multidimensional-Movement-Data-from-the-Slider®
 
-**Paper Title**: Cluster Analysis of Multidimensional Movement Data from the Slider® Home Physiotherapy Device: Insights into Kinetic Patterns
+**Paper Title**: Kinetic Pattern Recognition in Novel Home-Based Physiotherapy: Cluster Analysis of Multidimensional Movement Data from the Slider® Digital Rehabilitation Device
 
 This is the R codes/script used for the study's data analysis.
 
